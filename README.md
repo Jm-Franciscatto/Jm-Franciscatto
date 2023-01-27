@@ -1,3 +1,4 @@
+```js
 import { SoftwareDeveloper } from 'Jm-Franciscatto';
 
 class Bio extends SoftwareDeveloper {
@@ -19,3 +20,4 @@ class Contact extends SoftwareDeveloper {
   linkedin = 'https://www.linkedin.com/in/julio-miguel-abbatepietro-franciscatto-181427221/';
   discord  = true;
 }
+```
