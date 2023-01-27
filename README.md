@@ -1,16 +1,21 @@
-### Hi there 👋
+import { SoftwareDeveloper } from 'Jm-Franciscatto';
 
-<!--
-**Jm-Franciscatto/Jm-Franciscatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+class Bio extends SoftwareDeveloper {
+  name     = 'Julio Miguel';
+  title    = 'Full-Stack-Student';
+  company  = 'Open for Business';
+  location = 'Brazil, SP';
+  website  = 'Coming Soon';
+  currentProject = 'Student at Rocketseat';
+}
 
-Here are some ideas to get you started:
+class Skills extends SoftwareDeveloper {
+  
+  technologies  = ['HTML', 'CSS', 'JavaScript'];
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+class Contact extends SoftwareDeveloper {
+  email    = 'juliomiguel.francis@gmail.com';
+  linkedin = 'https://www.linkedin.com/in/julio-miguel-abbatepietro-franciscatto-181427221/';
+  discord  = true;
+}
