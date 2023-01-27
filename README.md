@@ -11,7 +11,6 @@ class Bio extends SoftwareDeveloper {
 }
 
 class Skills extends SoftwareDeveloper {
-  
   technologies  = ['HTML', 'CSS', 'JavaScript'];
 }
 
