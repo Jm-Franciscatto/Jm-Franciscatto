@@ -17,6 +17,6 @@ class Skills extends SoftwareDeveloper {
 class Contact extends SoftwareDeveloper {
   email    = 'juliomiguel.francis@gmail.com';
   linkedin = 'https://www.linkedin.com/in/julio-miguel-abbatepietro-franciscatto-181427221/';
-  discord  = Julio Miguel#0387;
+  discord  = Julio.M#0387;
 }
 ```
